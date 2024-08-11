@@ -1,7 +1,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 ## Nome do Ebook
-**Gastronomia Social: Sabores que Unem**
+[**Gastronomia Social: Sabores que Unem**](https://github.com/SpukoBR/gastronomia-social/blob/main/ebook.pdf)
 
 ## Tecnologias Utilizadas no Projeto
 - [ChatGPT](https://chatgpt.com/)
